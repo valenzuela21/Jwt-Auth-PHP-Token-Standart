@@ -12,7 +12,7 @@ Practical example for this they will have to play with the URL to be able to mak
 
 We replace {token} by the value that we copied in step 1, if everything is fine we will see the information of our user that we save in the token.
 
-Very Goog!
+Very Goog! 🚀
 
 
 
